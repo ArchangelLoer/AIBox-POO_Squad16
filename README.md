@@ -10,7 +10,7 @@ Nesta primeira entrega, definimos as regras de negócio através de Histórias d
 
 ### 📚 Histórias de Usuário (BDD)
 Foram definidas 7 histórias de usuário abordando o ecossistema da plataforma (Visão do Professor, Aluno, Administrador, Coordenador e Responsáveis).
-* 📄 **Documento de Histórias:** [Clique aqui para acessar o PDF com as histórias detalhadas](docs/Historias_de_Usuario_Squad_16.pdf)
+* 📄 **Documento de Histórias:** [Clique aqui para acessar o PDF com as histórias detalhadas](docs/Historias_de_Usuário_Squad_16.pdf)
 
 ### 🎨 Protótipo de Baixa Fidelidade (Lo-Fi)
 O wireframe foi construído englobando as histórias principais do fluxo (Login, Geração de Questões, Edição, Visão do Aluno e Dashboard de Histórico).
